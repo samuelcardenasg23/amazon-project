@@ -12,13 +12,13 @@ p {
   margin: 0;
 }
 
-button {
+/* button {
   cursor: pointer;
 }
 
 select {
   cursor: pointer;
-}
+} */
 
 input, select, button {
   font-family: Roboto, Arial;
