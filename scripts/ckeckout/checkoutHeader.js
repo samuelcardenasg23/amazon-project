@@ -18,7 +18,7 @@ export function renderCheckoutHeader () {
 
             <div class="checkout-header-middle-section">
             Checkout (<a class="return-to-home-link"
-                href="index.html">${cartQuantity}</a>)
+                href="index.html">${cartQuantity} items</a>)
             </div>
 
             <div class="checkout-header-right-section">
